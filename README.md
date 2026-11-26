@@ -9,9 +9,9 @@ resulting product composition and returns it to the HYSYS product stream.
 
 This code accompanies:
 
-> R. Di Mento et al., *Development and scale-up of a kinetic reactor-network
+> R. Di Mento et al., Development and scale-up of a kinetic reactor-network
 > model for dual fluidized-bed gasification of contaminated biomass with
-> process-scale integration*, Fuel Processing Technology (in preparation).
+> process-scale integration (manuscript in preparation).
 
 ## Contents
 

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "hysys-crn-uuo: Aspen HYSYS User Unit Operation for coupling a chemical reactor network gasifier model"
+type: software
+authors:
+  - family-names: "Di Mento"
+    given-names: "Riccardo"
+    orcid: "https://orcid.org/0009-0005-0060-6365"
+    affiliation: "Simulation of Reactive Thermo-Fluid Systems (STFS), Technische Universität Darmstadt"
+version: "1.0.0"
+date-released: "2026-11-26"
+license: MIT
+repository-code: "https://github.com/STFS-TUDa/hysys-crn-uuo"
+keywords:
+  - Aspen HYSYS
+  - User Unit Operation
+  - chemical reactor network
+  - biomass gasification
+  - dual fluidized bed

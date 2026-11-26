@@ -1,0 +1,15 @@
+# HYSYS / Excel working and output files
+*.log
+*.xlsx
+*.xlsm
+*.xls
+*.DIC
+*.bat
+*.hsc
+*.hsc.bk*
+*.edf
+~$*
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
